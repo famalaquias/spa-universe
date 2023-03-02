@@ -1,18 +1,22 @@
 <h1 align="center"> 🌠 SPA Universe </h1>
 
-![todoList](https://user-images.githubusercontent.com/98343640/221055118-62f0a2f3-13c4-44f8-9b0d-6adc74a631fd.png)
+![home](https://user-images.githubusercontent.com/98343640/222507973-126b7b5d-3827-485b-946f-ddf2c4c18bdc.png)
 
 
 ## :page_with_curl: Sobre
 
-O Projeto To-do List trata-se de uma página web de uma lista de tarefas. O usuário poderá colocar na lista quantas itens quiser, além de marcá-los com concluídos, mudá-los de posição ou deletá-los.
+O Projeto SPA Universe trata-se de uma página web que criei para treinar meus conceitos de rotas (router). O usuário tem a opção de navegar por três páginas: Home, Universo e Exploração.
 
 
 ## :man_technologist: Habilidades Desenvolvidas
 
-- [x] Criar a estrutura doML
+- [x] Criar a estrutura do HTML
 - [x] Criar a estrutura do CSS
+- [x] Utilização do JavaScript
 - [x] Reagir a interações do usuário utilizando escutadores de eventos
+- [x] Reagir a interações do usuário utilizando rotas - router
+- [x] Reagir a interações do usuário utilizando classes
+- [x] Reagir a interações do usuário utilizando programação orientada a objetos
 
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
@@ -22,7 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML5](https://biblioteca.wiki/html5/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [JavaScript ES6+](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Socket.IO](https://socket.io)
 
 
 ---

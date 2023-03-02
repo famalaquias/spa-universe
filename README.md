@@ -2,6 +2,10 @@
 
 ![home](https://user-images.githubusercontent.com/98343640/222507973-126b7b5d-3827-485b-946f-ddf2c4c18bdc.png)
 
+![universo](https://user-images.githubusercontent.com/98343640/222509183-b1c96dcb-297a-4b0f-98ff-5f0bcf39a39d.png)
+
+![explore](https://user-images.githubusercontent.com/98343640/222509219-102fa560-17e1-424f-8386-d18675a26e0e.png)
+
 
 ## :page_with_curl: Sobre
 
